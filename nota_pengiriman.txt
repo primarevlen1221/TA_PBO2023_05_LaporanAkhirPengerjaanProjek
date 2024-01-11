@@ -1,0 +1,12 @@
+========== Nota Pengiriman ==========
+No Resi: 2200018309
+Nama Barang: laptop
+Nama Pengirim: ultramen
+Alamat Pengirim: sanghai
+Nama Penerima: Godzila
+Alamat Penerima: Busan
+Berat Barang: 1.0 kg
+Jarak Pengiriman: 978.0 km
+Tarif: Rp 200600.0
+===============================
+Terima kasih telah menggunakan layanan ekspedisi!
